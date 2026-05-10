@@ -331,9 +331,7 @@ This project helps users understand whether a news article may be reliable, bias
 
 ```
 # Fake News Detection System
-
 ## Project Demo Video
-
 [Click here to watch the project video](https://drive.google.com/file/d/1qnrmhxy5C7CO9Z4x8sqdNmDLpDnEP4Zy/view?usp=sharing)
 
 
