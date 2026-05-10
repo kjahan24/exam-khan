@@ -329,10 +329,12 @@ The Fake News Detection System is a simple but practical AI Engineering project.
 
 This project helps users understand whether a news article may be reliable, biased, misleading, or in need of stronger verification.
 
-```
 # Fake News Detection System
 ## Project Demo Video
 [Click here to watch the project video](https://drive.google.com/file/d/1qnrmhxy5C7CO9Z4x8sqdNmDLpDnEP4Zy/view?usp=sharing)
+
+```
+
 
 
 
