@@ -1,0 +1,64 @@
+       Course Name: Professional AI Engineering
+
+
+Khan Sajahan
+Mobile: 01777075686, 
+email: iamkhandhaka@gmail.com
+
+
+Part A: Short Questions Answer
+
+1. Generative AI can generate or create something new. Such as text, image, code, email, report, audio, video, based on a prompt.
+On the other hand, Agentic AI can not generate or create something new, it can perform task as a human do. It can make a plan, make a decision, can use a tool and complete a task step by step. 
+Real-world Business Use Case:
+In an e-commerce business, Generative AI can write product descriptions, ad copies, and customer replies. But Agentic AI can check product stock, compare prices, create a sales report, send emails to customers, and update the CRM automatically.
+So, Generative AI mainly creates content, while Agentic AI takes action to complete a goal.
+
+
+2. For local AI development, CPU is slower because it processes fewer tasks at a time. It can run small AI models, but response time is usually slow.
+GPU is much faster because it can process many calculations in parallel. It is better for running LLMs, image models, embeddings, and deep learning tasks.
+Docker is necessary because it keeps the development environment consistent. It packages the app, dependencies, libraries, and settings together, so the project runs the same on any computer or server.
+In short:
+CPU 		= slower, suitable for small tasks
+GPU 		= faster, suitable for AI model processing
+Docker 	= stable, portable, and easy deployment
+
+4. System prompt design and Guardrails & Safety are critical because they control how an AI application behaves in real-world use.
+A system prompt defines the AI’s role, rules, tone, and limitations. It helps the AI give consistent and relevant answers.
+Guardrails & Safety prevent the AI from giving harmful, wrong, biased, private, or unrelated responses. They also help the system follow business rules.
+For production-level applications, they are important because they make the AI system:
+Safe, Reliable, Consistent, Controlled, Business-ready
+Example:
+In a customer support chatbot, the system prompt tells the AI to answer only company-related questions. Guardrails stop it from giving fake refund policies, private customer data, or unsafe advice.
+
+5. RAG is an AI architecture where the model answers questions using information retrieved from external documents.
+How RAG works: First, documents are uploaded into the system. Then the text is extracted, divided into smaller parts, and stored in a searchable format. When a user asks a question, the system searches the most relevant document parts and sends them with the question to the AI model. The model then generates an answer based on that retrieved information.
+In short:
+Document Upload → Text Extraction → Chunking → Embedding → Retrieval → AI Answer
+Role of Document Processing: Document processing extracts clean text from files such as PDF, DOCX, or web pages. It removes unnecessary formatting and prepares the content for AI search.
+Role of Chunking Strategy: Chanking strategy means dividing large documents into smaller text sections. Good chunking helps the system retrieve the most relevant information accurately.
+So, RAG helps the AI give more accurate and document-based answers instead of depending only on its general knowledge.
+
+
+6. Embeddings convert text into numerical vectors so the system can understand meaning and similarity between texts.
+Retrieval Methods search those vectors to find the most relevant document chunks for the user’s question.
+In a local AI project:
+Embeddings = convert text into searchable meaning
+Retrieval = find the most relevant information
+Example:
+In a PDF chatbot, embeddings store the meaning of PDF chunks. When the user asks a question, retrieval finds the best matching chunks and sends them to the AI model for answer generation.
+
+------------------------------------------------
+
+Part B: Practical & Project
+
+1.	AI Project Development 
+        Project Name: Fake News Detection System
+
+2.	Video Presentation: ok
+        Attached video file on GitHub
+
+3.	GitHub Submission: ok
+
+4.	Project Documentation & Code Structure: ok
+        README (Notepad file name: Exam – README)
